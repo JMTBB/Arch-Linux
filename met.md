@@ -4,6 +4,10 @@
 
 [archlinux无法联网解决方法](https://blog.csdn.net/killzero/article/details/8857224)
 
+可能原因 ：
+
+未执行 [ArchLinux安装图文教程](https://blog.csdn.net/r8l8q8/article/details/76516523) 中的第**11**步（网络配置）
+
 ### 首次重启登陆
 
 未设置用户名时，首次登陆的用户名为` root `
