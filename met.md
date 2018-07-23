@@ -10,7 +10,7 @@
 
 ![错误截图](https://github.com/JMTBB/Arch-Linux/blob/master/screenshots/Snipaste_2018-07-23_19-51-29.png "已更改mirrorlist")
 
-
+*7/23终止，还没解决这个问题，试试centos*
 
 ---------------------
 ## 2018/7/1x ##
