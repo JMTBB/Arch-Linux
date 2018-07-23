@@ -8,6 +8,8 @@
 
 **binutils-2.30-5-x86_64.tar.xz**无法安装
 
+![错误截图](https://github.com/JMTBB/Arch-Linux/blob/master/screenshots/Snipaste_2018-07-23_19-51-29.png "已更改mirrorlist")
+
 
 
 ---------------------
