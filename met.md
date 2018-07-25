@@ -1,6 +1,14 @@
  遇到的一些问题
 =========
 
+----------------
+## 2018/7/25 ##
+使用`nano /etc/pacman.d/mirrorlist`修改源，尝试添加一些国内源。
+
+任然出现`failed retrieving file`的问题
+
+[Arch提供的mirror list](https://www.archlinux.org/mirrors/ "以country排序方便寻找")
+
 -----------------
 ## 2018/7/23 ##
 
